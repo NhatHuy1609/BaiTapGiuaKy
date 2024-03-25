@@ -1,0 +1,14 @@
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\bin\Debug\net8.0\PhamVanNhatHuy_GiuaKy.exe
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\bin\Debug\net8.0\PhamVanNhatHuy_GiuaKy.deps.json
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\bin\Debug\net8.0\PhamVanNhatHuy_GiuaKy.runtimeconfig.json
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\bin\Debug\net8.0\PhamVanNhatHuy_GiuaKy.dll
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\bin\Debug\net8.0\PhamVanNhatHuy_GiuaKy.pdb
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\PhamVanNhatHuy_GiuaKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\PhamVanNhatHuy_GiuaKy.AssemblyInfoInputs.cache
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\PhamVanNhatHuy_GiuaKy.AssemblyInfo.cs
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\PhamVanNhatHuy_GiuaKy.csproj.CoreCompileInputs.cache
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\PhamVanNhatHuy_GiuaKy.dll
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\refint\PhamVanNhatHuy_GiuaKy.dll
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\PhamVanNhatHuy_GiuaKy.pdb
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\PhamVanNhatHuy_GiuaKy.genruntimeconfig.cache
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_GiuaKy\PhamVanNhatHuy_GiuaKy\obj\Debug\net8.0\ref\PhamVanNhatHuy_GiuaKy.dll
